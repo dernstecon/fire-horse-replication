@@ -1,0 +1,13 @@
+# Stata log and temporary files
+*.log
+*.smcl
+*.stswp
+
+# Temp folder (created automatically at runtime)
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
